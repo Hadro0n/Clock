@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "pngimg.com - clock_PNG6611.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -12,6 +13,7 @@
           "value" : "dark"
         }
       ],
+      "filename" : "pngimg.com - clock_PNG6611 1.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -23,6 +25,7 @@
           "value" : "tinted"
         }
       ],
+      "filename" : "pngimg.com - clock_PNG6611 2.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
